@@ -1,0 +1,7 @@
+{
+  "name": "Admission Season: DIY Flower College Guide",
+  "description": "Upload a photo of your flower to receive personalized college application resources based on your flower's unique components.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
