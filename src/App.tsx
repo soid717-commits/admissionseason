@@ -245,7 +245,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="mt-24 text-center opacity-40 text-sm max-w-md">
-        <p>© {new Date().getFullYear()} Admission Season. A activity for college applicants and guardians. </p>
+        <p>Admission Season. A activity for college applicants and guardians. </p>
       </footer>
     </div>
   );
